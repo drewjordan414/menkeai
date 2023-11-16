@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
   return (
     <header className="app-header">
-      <h1>Chat with GPT</h1>
+      <h1>Chat with Menke</h1>
     </header>
   );
 }
